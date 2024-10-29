@@ -16,7 +16,7 @@ BERT
 Custom CNN
 
 ### Audio Models
-The audio recordings were processed to isolate the participants' voices from those of interviewers. Spectrograms were then generated and fed into a CNN-based model (xResNet-34) for classification.
+The audio recordings were processed to isolate the participants' voices from those of interviewers.  Spectrograms were then generated and fed into a CNN-based model (xResNet-34) for classification.
 
 Although we planned to build a combined classifier that uses both text and audio data, time constraints meant that only the audio model was fully developed. Integrating both audio and text remains a future goal.
 
