@@ -26,6 +26,7 @@ Devlin, J., et al. (2018). Bert: Pre-training of deep bidirectional transformers
 Howard, J., & Ruder, S. (2018). Universal language model fine-tuning for text classification. arXiv preprint arXiv:1801.06146.
 Hernández-Domínguez, L., et al. (2018). Computer-based evaluation of Alzheimer’s disease and mild cognitive impairment patients during a picture description task. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 10, 260-268.
 López-de-Ipiña, K., et al. (2012). New approaches for Alzheimer’s disease diagnosis based on automatic spontaneous speech analysis and emotional temperature. Ambient Assisted Living Workshop, Springer, Berlin.
+TeamN. (2019). Early Detection of Alzheimer's Disease project. GitHub repository.https://github.com/pcuenca/alzheimer
 MacWhinney, B. (2000). The CHILDES Project: Tools for Analyzing Talk.
 Mirheidari, B., et al. (2016). Diagnosing people with dementia using automatic conversation analysis. Proceedings of Interspeech, ISCA.
 Mirheidari, B., et al. (2019). Dementia detection using automatic analysis of conversations. Computer Speech & Language, 53, 65-79.
